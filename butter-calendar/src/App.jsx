@@ -8,7 +8,7 @@ export default function App() {
           <h2 style={{margin:0}}>Team Calendar</h2>
           <p className="kicker">Plan, align, and ship with clarity</p>
         </div>
-        <a className="cta" href="https://github.com/aswinsai12/butter-calendar">View Code</a>
+        <a className="cta" href="https://github.com/aswinsai12/Calender">View Code</a>
       </div>
       <Calendar/>
     </div>
