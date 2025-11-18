@@ -1,0 +1,7 @@
+[
+  { "id": "ev-standup", "title": "Daily Standup", "date": "2025-11-18", "time": "10:00", "duration": 30, "color": "#2563eb" },
+  { "id": "ev-review", "title": "Code Review", "date": "2025-11-18", "time": "10:15", "duration": 45, "color": "#10b981" },
+  { "id": "ev-sync", "title": "Team Sync", "date": "2025-11-20", "time": "14:00", "duration": 60, "color": "#f59e0b" },
+  { "id": "ev-demo", "title": "Feature Demo", "date": "2025-11-25", "time": "11:30", "duration": 30, "color": "#7c3aed" },
+  { "id": "ev-1on1", "title": "1:1", "date": "2025-11-25", "time": "11:30", "duration": 60, "color": "#ef4444" }
+]
